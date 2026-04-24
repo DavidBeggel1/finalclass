@@ -7,10 +7,11 @@ layout: default
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/image.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
-![alt text](image.png)
+
+<!-- ![alt text](image.png) -->
 ## This is a small header
-
 This is basic paragraph text.
 
 The analysis of part 1.1 was X
