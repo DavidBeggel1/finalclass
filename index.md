@@ -8,7 +8,7 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 <img src="static/imgs/image.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
-<img src="static/imgs/new_photo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+<img src="static/imgs/new_photo.png" alt="Image of Comp110 rainbow logo. "  width="1000"/>
 
 
 <!-- ![alt text](image.png) -->
@@ -33,6 +33,6 @@ If there was a livestreamed version of the course, it could help alleviate some 
 
 The office hours for this course are at very difficult times for many students. If there were office hours later on in the evening it would allow more students to visit them since a majority of class are between 11:00am and 5:00pm. If they adjusted the hours to be from 1:00pm to 7:00pm it could give more students a chance to sit with a TA or peer instructor about the course matieral without worrying about running out of time or having to rush. 
 
-### Conclusion
+### Analysis
 
 This course is beneficial for students who are seeking a future in Computer Science, and any career in coding. However it seems that for many students who are not Computer Science majors, it can seem confusing as to why they are being required to take this course. I do beleive that have a basic grasp of what coding is and how it operates is important in this modern age. 
